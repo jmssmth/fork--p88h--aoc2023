@@ -1,3 +1,11 @@
+
+James Form of p88h aoc2023 repo
+==========================
+
+he has a [write up here](https://medium.com/@p88h/advent-of-mojo-6d6d0d00761b) of his experiences...
+found this repo in the Mojo discord > #advent-of-code channel
+
+
 p88h's Advent of Code 2023
 ==========================
 
