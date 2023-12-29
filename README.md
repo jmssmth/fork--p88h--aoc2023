@@ -1,5 +1,4 @@
-
-James Form of p88h aoc2023 repo
+Fork of p88h aoc2023 repo
 ==========================
 
 he has a [write up here](https://medium.com/@p88h/advent-of-mojo-6d6d0d00761b) of his experiences...
